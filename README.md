@@ -1,1 +1,0 @@
-# odd-perfect-numbers
