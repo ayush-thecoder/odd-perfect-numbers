@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Divisor Gravity and the Odd Perfect Number Problem"
+authors:
+  - family-names: Yadav
+    given-names: Ayush
+    email: ayush.nyx@gmail.com
+    orcid: https://orcid.org/
+    affiliation: Independent Researcher
+date-released: 2025-04-08
+url: https://github.com/ayush-thecoder/odd-perfect-exhibit
+license: CC-BY-NC-SA-4.0
